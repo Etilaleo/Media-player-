@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <!-- A shape can be created like this for the background -->
+    <stroke android:color="#0D25C1" android:width="0dp"/>
+</shape>
